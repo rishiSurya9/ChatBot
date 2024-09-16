@@ -23,7 +23,11 @@ Provide a screenshot or GIF showing your chatbot in action here.
    ```bash
    pip install -r requirements.txt
 
-3. Run the application:
+3. Load or train Model
+   ```bash
+   python chatbot_model.py
+
+4. Run the application:
    ```bash
    python chatbot_gui.py
 

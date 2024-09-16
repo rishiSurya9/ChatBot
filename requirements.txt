@@ -1,6 +1,6 @@
 tensorflow
 nltk
 spacy
-tkinter
 numpy
 scikit-learn
+Pillow
